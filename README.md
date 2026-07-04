@@ -80,5 +80,5 @@ Currently based in Germany 🇩🇪 and looking for opportunities in Data Engine
 
 ## 📫 Contact
 
-- LinkedIn:
+- LinkedIn: www.linkedin.com/in/adammessaoudi
 - Email: adam.messaoudi67@gmail.com
