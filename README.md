@@ -14,7 +14,7 @@ Building scalable data platforms, enterprise BI solutions and modern web applica
 
 🎓 Computer Science Engineer from ESPRIT
 
-🇩🇪 Exchange Semester at Schmalkalden University of Applied Sciences (Germany)
+Exchange Semester at Schmalkalden University of Applied Sciences (Germany)
 
 💼 Professional experience at **ZF Group**, PGS International, Infraway and Orange
 
