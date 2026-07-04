@@ -1,24 +1,32 @@
-# Hi, I'm Adam Messaoudi 👋
+<h1 align="center">Hi 👋, I'm Adam Messaoudi</h1>
 
-### Data Engineer | Business Intelligence Engineer | Full-Stack Developer
+<h3 align="center">
+Data Engineer • Business Intelligence Engineer • Full-Stack Developer
+</h3>
 
-I'm a Computer Science Engineer passionate about building scalable data platforms, modern web applications, and interactive analytics solutions.
-
-Currently based in Germany 🇩🇪 and looking for opportunities in Data Engineering, Business Intelligence and Software Development.
-
----
-
-## 🚀 About Me
-
-- 🎓 Computer Science Engineer (ESPRIT)
-- 🇩🇪 Exchange Semester at Schmalkalden University of Applied Sciences
-- 💼 Experience at ZF Group, PGS International, Infraway and Orange
-- 📊 Passionate about Data Engineering, BI and Full-Stack Development
-- 🌱 Currently improving my German (A2)
+<p align="center">
+Building scalable data platforms, enterprise BI solutions and modern web applications.
+</p>
 
 ---
 
-## 💻 Tech Stack
+## 👨‍💻 About Me
+
+🎓 Computer Science Engineer from ESPRIT
+
+🇩🇪 Exchange Semester at Schmalkalden University of Applied Sciences (Germany)
+
+💼 Professional experience at **ZF Group**, PGS International, Infraway and Orange
+
+📊 Passionate about Data Engineering, Business Intelligence and Software Engineering
+
+🌱 Currently improving my German (A2)
+
+🚀 Looking for opportunities in Germany
+
+---
+
+# 🛠 Tech Stack
 
 ### Data Engineering
 
@@ -28,6 +36,7 @@ Currently based in Germany 🇩🇪 and looking for opportunities in Data Engine
 - Talend
 - ETL / ELT
 - Data Warehousing
+- Data Modeling
 
 ### Programming
 
@@ -36,6 +45,7 @@ Currently based in Germany 🇩🇪 and looking for opportunities in Data Engine
 - JavaScript
 - SQL
 - C#
+- Java
 
 ### Frontend
 
@@ -63,22 +73,56 @@ Currently based in Germany 🇩🇪 and looking for opportunities in Data Engine
 - Docker
 - Linux
 - Azure
+- Salesforce
 
 ---
 
-## ⭐ Featured Projects
+# ⭐ Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| FTF Digital Portal | Premium React & TypeScript football platform |
-| Industrial B2B Platform | Next.js + MySQL + Chrome Extensions |
-| Football Scouting Platform | Flask + Python talent matching platform |
-| CAN 2025 Analytics | Selenium + Power BI scouting analytics |
-| ZF Global Monitoring | Microsoft Fabric + Power BI dashboards |
+## Enterprise Digital Monitoring Platform (ZF Group)
+
+Enterprise monitoring solution developed during my end-of-studies internship.
+
+**Technologies**
+
+- Microsoft Fabric
+- Power BI
+- Python
+- Selenium
+- OneLake
+- Dataflows Gen2
+- Machine Learning
 
 ---
 
-## 📫 Contact
+## Tunisian Football Federation Portal
 
-- LinkedIn: www.linkedin.com/in/adammessaoudi
-- Email: adam.messaoudi67@gmail.com
+Premium React + TypeScript web platform featuring interactive ticket booking, stadium visualization and modern UI/UX.
+
+---
+
+## Industrial B2B Platform
+
+Next.js industrial e-commerce platform powered by a fully automated ETL pipeline and custom Chrome Extensions.
+
+---
+
+## Football Scouting Platform
+
+Full-stack platform connecting clubs, players, coaches and scouts through intelligent matching algorithms.
+
+---
+
+## CAN 2025 Analytics
+
+Data analytics project using Selenium and Power BI to discover hidden football talents through advanced performance metrics.
+
+---
+
+# 📫 Contact
+
+📧 adam.messaoudi67@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/adammessaoudi
+
+🌍 Germany
